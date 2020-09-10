@@ -1,5 +1,4 @@
-
-## C language
+# Hakerrank's 30 days of code in C language
 
 Hi! Those are my solutions to HackerRank's 30 days of code challenge
 

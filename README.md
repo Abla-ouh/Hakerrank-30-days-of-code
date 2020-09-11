@@ -8,6 +8,6 @@
 |----------------|-------------------------------            |-----------------------------|
 |	0|[ Hello, World.](https://www.hackerrank.com/challenges/30-hello-world/problem)            |[Day0HelloWorld.c](https://github.com/Abla-ouh/Hakerrank-30-days-of-code/blob/master/Day0HelloWorld.c)           |
 |1       |[Data Types](https://www.hackerrank.com/challenges/30-data-types/problem)           |      [Day1DataTypes.c](https://github.com/Abla-ouh/Hakerrank-30-days-of-code/blob/master/Data%20Types.c)      |
-|        ||
+|     2   |[ Operators](https://www.hackerrank.com/challenges/30-operators/problem)|[Day2Operators.c](https://github.com/Abla-ouh/Hakerrank-30-days-of-code/blob/master/Day2Operators.c)
 
 -----------

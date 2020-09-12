@@ -1,7 +1,7 @@
 ![enter image description here](https://miro.medium.com/max/1036/1*aZgzHh2RITeSGoiFqeqiHg.png)
-# Hakerrank's 30 days of code in C language
+# Hakerrank's 30 days of code in C language :
 
-### Hi! Those are my solutions to HackerRank's 30 days of code challenge
+### Hi! Those are my solutions to HackerRank's 30 days of code challenge :
 
 
 |         day       |         challenge           |solution                       |

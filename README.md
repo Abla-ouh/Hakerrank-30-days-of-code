@@ -13,4 +13,5 @@
 |4|[class-vs-instance](https://www.hackerrank.com/challenges/30-class-vs-instance/problem) | [Day4Class-vs-Instance.cpp](https://github.com/Abla-ouh/Hakerrank-30-days-of-code/blob/master/Day4Class-vs-Instance.cpp) |
 |5|[Loops](https://www.hackerrank.com/challenges/30-loops/problem)|[Day5Loops.c](https://github.com/Abla-ouh/Hakerrank-30-days-of-code/blob/master/Day5Loops.c) |
 |6|[Let's Review](https://www.hackerrank.com/challenges/30-review-loop/problem) |[Day6Let'sReview.cpp](https://github.com/Abla-ouh/Hakerrank-30-days-of-code/blob/master/Day6Let%27sReview.cpp) |
+|7|[Arrays](https://www.hackerrank.com/challenges/30-arrays/problem)|[enter Day7Array.cpp](https://github.com/Abla-ouh/Hakerrank-30-days-of-code/blob/master/Day7Arrays.cpp)|
 ----------------------

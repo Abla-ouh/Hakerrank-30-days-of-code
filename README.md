@@ -14,5 +14,7 @@ Hi! Those are my solutions to HackerRank's 30 days of code challenge
 |5|[Loops](https://www.hackerrank.com/challenges/30-loops/problem)|[Day5Loops.c](https://github.com/Abla-ouh/Hakerrank-30-days-of-code/blob/master/Day5Loops.c) |
 |6|[Let's Review](https://www.hackerrank.com/challenges/30-review-loop/problem) |[Day6Let'sReview.cpp](https://github.com/Abla-ouh/Hakerrank-30-days-of-code/blob/master/Day6Let%27sReview.cpp) |
 |7|[Arrays](https://www.hackerrank.com/challenges/30-arrays/problem)|[Day7Array.cpp](https://github.com/Abla-ouh/Hakerrank-30-days-of-code/blob/master/Day7Arrays.cpp)|
-|8|[Dictionaries and Maps](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem)|[Day08Dictionaries and Maps.cpp](https://github.com/Abla-ouh/Hakerrank-30-days-of-code/blob/master/Day08Dictionaries%20and%20Maps.cpp)|
+|8|[Dictionaries and Maps](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem)|[Day8Dictionaries and Maps.cpp](https://github.com/Abla-ouh/Hakerrank-30-days-of-code/blob/master/Day08Dictionaries%20and%20Maps.cpp)|
+|9|[Recusion3](https://www.hackerrank.com/challenges/30-recursion/problem)|[Day9Recusion3.c](https://github.com/Abla-ouh/Hakerrank-30-days-of-code/blob/master/Day9Recursion3.c)|
+|10|[Binary numbers](https://www.hackerrank.com/challenges/30-binary-numbers/problem)|[Day10BinaryNumbers.c](https://github.com/Abla-ouh/Hakerrank-30-days-of-code/blob/master/Day10BinaryNumbers.c)|
 ----------------------

@@ -17,5 +17,6 @@ Hi! Those are my solutions to HackerRank's 30 days of code challenge
 |8|[Dictionaries and Maps](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem)|[Day8Dictionaries and Maps.cpp](https://github.com/Abla-ouh/Hakerrank-30-days-of-code/blob/master/Day08Dictionaries%20and%20Maps.cpp)|
 |9|[Recusion3](https://www.hackerrank.com/challenges/30-recursion/problem)|[Day9Recusion3.c](https://github.com/Abla-ouh/Hakerrank-30-days-of-code/blob/master/Day9Recursion3.c)|
 |10|[Binary numbers](https://www.hackerrank.com/challenges/30-binary-numbers/problem)|[Day10BinaryNumbers.c](https://github.com/Abla-ouh/Hakerrank-30-days-of-code/blob/master/Day10BinaryNumbers.c)|
-|11|[2D arrays](https://www.hackerrank.com/challenges/30-2d-arrays/problem)|[Day11-2DArrays.c](https://github.com/Abla-ouh/Hakerrank-30-days-of-code/blob/master/Day11-2DArrays.c)
+|11|[2D arrays](https://www.hackerrank.com/challenges/30-2d-arrays/problem)|[Day11-2DArrays.c](https://github.com/Abla-ouh/Hakerrank-30-days-of-code/blob/master/Day11-2DArrays.c)|
+|12|[Inheritance](https://www.hackerrank.com/challenges/30-inheritance/problem)|[Day12Inheritance](https://github.com/Abla-ouh/Hakerrank-30-days-of-code/blob/master/Day12Inheritance.cpp)|
 ----------------------

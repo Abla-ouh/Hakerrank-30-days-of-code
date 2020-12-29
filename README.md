@@ -19,4 +19,6 @@ Hi! Those are my solutions to HackerRank's 30 days of code challenge
 |10|[Binary numbers](https://www.hackerrank.com/challenges/30-binary-numbers/problem)|[Day10BinaryNumbers.c](https://github.com/Abla-ouh/Hakerrank-30-days-of-code/blob/master/Day10BinaryNumbers.c)|
 |11|[2D arrays](https://www.hackerrank.com/challenges/30-2d-arrays/problem)|[Day11-2DArrays.c](https://github.com/Abla-ouh/Hakerrank-30-days-of-code/blob/master/Day11-2DArrays.c)|
 |12|[Inheritance](https://www.hackerrank.com/challenges/30-inheritance/problem)|[Day12Inheritance](https://github.com/Abla-ouh/Hakerrank-30-days-of-code/blob/master/Day12Inheritance.cpp)|
+|13|[Abstract Classes](https://www.hackerrank.com/challenges/30-abstract-classes/problem)|[Day13AbstractClasses.cpp](https://github.com/Abla-ouh/Hakerrank-30-days-of-code/blob/master/Day13AbstractClasses.cpp)|
+|||
 ----------------------
